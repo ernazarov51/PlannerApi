@@ -29,3 +29,5 @@ class UserRegisterModelSerializer(ModelSerializer):
         return User.objects.create(**data)
 
 
+
+
