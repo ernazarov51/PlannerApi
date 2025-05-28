@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'authentication',
     'rest_framework_simplejwt',
-    'drf_spectacular'
+    'drf_spectacular',
     'daily_plan',
 ]
 
