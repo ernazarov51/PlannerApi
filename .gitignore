@@ -1,5 +1,5 @@
 .idea
 .venv
-student/migrations/*
-support/migrations/*
+daily_plan/migrations/*
+authentication/migrations/*
 db.sqlite3
